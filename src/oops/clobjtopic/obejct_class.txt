@@ -1,0 +1,69 @@
+Student [rno name std]----500 Student --- scan/disp / processed--[update/delete]
+
+int rno[500];-// scna rno --- rno--compare---rno[500]-----console new rno----update
+String name[500];-// scna rno --- name--compare---name[500]-------console new name----update
+int std[500];-// scna rno --- rno--compare---rno[500]---update
+------------------------------
+
+C Language --- structure(grouping)----(class--Advanced Structure)(OOP's)
+----------------
+|
+c++(structure----class)
+|
+Java (class)
+class Student
+{
+	rno; 
+	name;
+	std;
+
+	+ Member Functlion
+
+	
+};
+
+main()
+{
+	struct Student s[5];
+}
+
+   s[0]		  s[1]    s[2]     s[3]   s[4]
+--------------------------------------------------
+ rno=1		| rno=2	| rno=3	| rno=4	| rno=5	|
+ name="argish"  |	|	|	|	|
+ std=12		|	|	|	|	|
+--------------------------------------------------
+
+
+
+
+
+
+1) class
+
+
+
+
+
+
+
+
+
+
+
+
+2) object
+3) encapsulation
+4) inheritance
+5) polymorphism
+6) abstraction
+----------------------------------------
+
+string 
+
+	1) Immuatble	2) Mutable
+	     |		     |
+	   String	  Stringbuffer
+			  StringBuilder
+
+
